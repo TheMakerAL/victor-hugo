@@ -1,7 +1,7 @@
 /*
   You can use import statements to include partials:
  */
-@import 'imports/reset.css';
+@import 'imports/reset.scss';
 
 /*
   Or add your statements here:
@@ -18,7 +18,7 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-color: #282c34;
+  background-color: #000;
   color: white;
 }
 
